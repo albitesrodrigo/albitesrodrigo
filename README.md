@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/banner-header.gif" alt="Banner superior" width="100%">
-</p>
-
 # Hola, soy Brayan Rodrigo Bautista Albites 👨‍💻
 
 ## 📲 Conéctate conmigo
