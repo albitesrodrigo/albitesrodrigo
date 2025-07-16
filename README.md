@@ -1,10 +1,17 @@
 # Hola, soy Brayan Rodrigo Bautista Albites 👨‍💻
 
 ## 📩 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanbautistaa/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/albitesrodrigo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albitesrodrigo@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51969760921)
+
+<div align="center" style="margin: 10px 0;">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brayanbautistaa/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=101010)](https://github.com/albitesrodrigo)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=101010)](mailto:albitesrodrigo@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/51969760921)
+
+</div>
+
+---
 
 ---
 
