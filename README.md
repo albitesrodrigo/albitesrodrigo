@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/banner-header.gif" alt="Banner superior" width="100%">
+</p>
+
 # Hola, soy Brayan Rodrigo Bautista Albites 👨‍💻
 
 ## 📲 Conéctate conmigo
@@ -27,7 +31,7 @@
 ![Test Cases](https://img.shields.io/badge/-Casos_de_prueba-3178C6?style=flat&logo=testcafe&logoColor=white) ![Bug Reporting](https://img.shields.io/badge/-Reporte_de_bugs-E34F26?style=flat&logo=bugsnag&logoColor=white) ![Documentación](https://img.shields.io/badge/-Documentación_QA-1572B6?style=flat&logo=readthedocs&logoColor=white)
 
 **👉 Automatización**  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/-Appium-000000?style=flat&logo=appium&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/-Appium-000000?style=flat&logo=appium&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) !
 
 **👉 Herramientas**  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
